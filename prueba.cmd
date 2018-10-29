@@ -1,0 +1,32 @@
+@echo off 
+echo NOOOOOOO
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+Start http://www.google.com
+pause 
+exit
